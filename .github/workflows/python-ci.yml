@@ -1,0 +1,3 @@
+git add .github/workflows/python-ci.yml
+git commit -m "Adaugă workflow CI avansat"
+git push
